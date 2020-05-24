@@ -1,21 +1,21 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="EP1" tvg-name="EP1" 
+#EXTINF:-1,EP1 tvg-id="EP1" tvg-name="EP1" 
 https://tv2.xboku.com/20200519/Eh6NFH8D/index.m3u8
-#EXTINF:-1 tvg-id="EP2" tvg-name="EP2" 
+#EXTINF:-1,EP2 tvg-id="EP2" tvg-name="EP2" 
 https://tv2.xboku.com/20200519/giF3tmF0/index.m3u8
-#EXTINF:-1 tvg-id="EP3" tvg-name="EP3" 
+#EXTINF:-1,EP3 tvg-id="EP3" tvg-name="EP3" 
 https://tv2.xboku.com/20200520/79Om8bYl/index.m3u8
-#EXTINF:-1 tvg-id="EP4" tvg-name="EP4" 
+#EXTINF:-1,EP4 tvg-id="EP4" tvg-name="EP4" 
 https://tv2.xboku.com/20200520/tFGRajhf/index.m3u8
-#EXTINF:-1 tvg-id="EP5" tvg-name="EP5" 
+#EXTINF:-1,EP5 tvg-id="EP5" tvg-name="EP5" 
 https://tv2.xboku.com/20200521/VVUSJmo1/index.m3u8
-#EXTINF:-1 tvg-id="EP6" tvg-name="EP6" 
+#EXTINF:-1,EP6 tvg-id="EP6" tvg-name="EP6" 
 https://tv2.xboku.com/20200521/CxcZmEMg/index.m3u8
-#EXTINF:-1 tvg-id="EP7" tvg-name="EP7" 
+#EXTINF:-1,EP7 tvg-id="EP7" tvg-name="EP7" 
 https://tv2.xboku.com/20200522/CvggMfYu/index.m3u8
-#EXTINF:-1 tvg-id="EP8" tvg-name="EP8" 
+#EXTINF:-1,EP8 tvg-id="EP8" tvg-name="EP8" 
 https://tv2.xboku.com/20200523/rcq31Mu5/index.m3u8
-#EXTINF:-1 tvg-id="EP9" tvg-name="EP9" 
+#EXTINF:-1,EP9 tvg-id="EP9" tvg-name="EP9" 
 https://tv2.xboku.com/20200524/PFPPyCie/index.m3u8
-#EXTINF:-1 tvg-id="EP10" tvg-name="EP10" 
+#EXTINF:-1,EP10 tvg-id="EP10" tvg-name="EP10" 
 https://tv2.xboku.com/20200524/vqsWZH5A/index.m3u8
